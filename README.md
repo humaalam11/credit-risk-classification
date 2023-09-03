@@ -8,7 +8,7 @@ The code will compare 2 Machine Learning Techniques and see which one works bett
 1) Machine Learning Model 1- Logistic Regression Model
 2) Machine Learning Model 2- Logistic Regression Model fitted with oversampled data
 
-I will use the description of Model 1 and 2 Accuracy, Precision, and Recall scores to summarize the results. In the end, we will see that the results are very similar, with the second model predicting with a little more accuracy than Model 1. 
+I will use the description of Model 1 and 2 Accuracy, Precision, and Recall scores to summarize the results. In the end, we will see that the results are very similar. 
 
 
 ![image](https://github.com/humaalam11/credit-risk-classification/assets/130116747/34c1c981-9fbc-45bf-9e54-f24e97ee8a00)
