@@ -10,3 +10,12 @@ The code will compare 2 Machine Learning Techniques and see which one works bett
 
 I will use the description of Model 1 and 2 Accuracy, Precision, and Recall scores to summarize the results. In the end, we will see that the results are very similar, with the second model predicting with a little more accuracy than Model 1. 
 
+
+![image](https://github.com/humaalam11/credit-risk-classification/assets/130116747/34c1c981-9fbc-45bf-9e54-f24e97ee8a00)
+
+
+
+![image](https://github.com/humaalam11/credit-risk-classification/assets/130116747/b3f8bdf4-6188-4cb7-bc9e-ae6f33dc164c)
+
+
+
